@@ -11,7 +11,7 @@ A nice layout-based challenge for beginners. This will test anyone who is new to
 - Flexbox
 - Responsive Design
 
-## Designed for ony two devices 
+## Designed for only two devices 
 - Mobile (375px)
 - Desktop(1440px)
 
